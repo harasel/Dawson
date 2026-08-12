@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Replace BASE_URL below with the live domain, e.g. https://yourdomain.com.au -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>BASE_URL/</loc><priority>1.0</priority></url>
+  <url><loc>BASE_URL/services.html</loc><priority>0.9</priority></url>
+  <url><loc>BASE_URL/projects.html</loc><priority>0.8</priority></url>
+  <url><loc>BASE_URL/about.html</loc><priority>0.7</priority></url>
+  <url><loc>BASE_URL/contact.html</loc><priority>0.9</priority></url>
+</urlset>

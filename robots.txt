@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Add the Sitemap: line once the real domain is live, e.g.
+# Sitemap: https://yourdomain.com.au/sitemap.xml
